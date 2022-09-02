@@ -1,0 +1,10 @@
+com\docs\invoice\api\domain\Company$CompanyBuilder.class
+com\docs\invoice\api\domain\Invoice$InvoiceBuilder.class
+com\docs\invoice\api\domain\Company.class
+com\docs\invoice\api\domain\Item.class
+com\docs\invoice\api\domain\QuantityType.class
+com\docs\invoice\api\service\CompanyService.class
+com\docs\invoice\api\service\ItemService.class
+com\docs\invoice\api\domain\Item$ItemBuilder.class
+com\docs\invoice\api\service\InvoiceService.class
+com\docs\invoice\api\domain\Invoice.class

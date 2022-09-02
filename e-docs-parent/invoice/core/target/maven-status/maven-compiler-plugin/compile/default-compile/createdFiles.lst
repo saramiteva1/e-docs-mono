@@ -1,0 +1,6 @@
+com\docs\invoice\core\service\CoreItemService.class
+com\docs\invoice\core\repository\CompanyRepository.class
+com\docs\invoice\core\service\CoreInvoiceService.class
+com\docs\invoice\core\repository\ItemRepository.class
+com\docs\invoice\core\service\CoreCompanyService.class
+com\docs\invoice\core\repository\InvoiceRepository.class

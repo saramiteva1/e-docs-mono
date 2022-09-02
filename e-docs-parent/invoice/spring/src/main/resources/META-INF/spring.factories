@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.docs.invoice.spring.configuration.JpaSpringConfiguration,\
+  com.docs.invoice.spring.configuration.RepositoryConfiguration,\
+  com.docs.invoice.spring.configuration.ServiceConfiguration,\
+  com.docs.invoice.spring.configuration.RestControllerConfiguration,\
+  com.docs.invoice.spring.configuration.MapperConfiguration
